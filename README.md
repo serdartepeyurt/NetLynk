@@ -6,6 +6,7 @@ This is a small library I've written in one day for a gig, and wanted to share i
 Library only works for button widgets as for now and you're welcome to contribute.
 
 # ToDo List
-Support more widget types
-Add tests and make CI integration
-Publish to NuGet
+
+- [ ] Add tests and make CI integration
+- [ ] Support more widget types
+- [ ] Publish to NuGet
