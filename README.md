@@ -1,6 +1,11 @@
 # NetLynk
 2-Way Bindable Blynk API Wrapper in NET Core
 
-Still work in progress. You're welcome to contribute.
+This is a small library I've written in one day for a gig, and wanted to share it publicly. Still work in progress. 
 
-Project only works for button widgets as for now.
+Library only works for button widgets as for now and you're welcome to contribute.
+
+# ToDo List
+Support more widget types
+Add tests and make CI integration
+Publish to NuGet
